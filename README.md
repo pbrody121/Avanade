@@ -1,1 +1,1 @@
-# Avanade-DatabricksOfficeHours
+# Avanade
